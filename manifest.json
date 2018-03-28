@@ -21,7 +21,7 @@
    "name": "__MSG_name__",
    "permissions": [ "*://*/*", "storage" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2018.3.28.1",
+   "version": "2018.3.28.2",
    "author": "Plugtopus Agency",
    "homepage_url": "https://plugtopus.agency"
 }
