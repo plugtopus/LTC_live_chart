@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "This extension shows current price and price change graph for Litecoin(LTC)"
+   },
+   "name": {
+      "message": "Litecoin(LTC) - price graph"
+   },
+   "shortname": {
+      "message": "Litecoin(LTC) - price graph"
+   },
+   "title": {
+      "message": "Litecoin(LTC) - price graph"
+   }
+}

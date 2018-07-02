@@ -4,5 +4,11 @@
    },
    "name": {
       "message": "Лайткоин Litecoin(LTC) - график цен"
+   },
+   "shortname": {
+      "message": "Лайткоин Litecoin(LTC) - график цен"
+   },
+   "title": {
+      "message": "Лайткоин Litecoin(LTC) - график цен"
    }
 }
